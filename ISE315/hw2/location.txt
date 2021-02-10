@@ -1,0 +1,84 @@
+aixas	42.4833	1.46667
+aixirivali	42.4667	1.5
+andorra	42.5	1.51
+ansalonga	42.5667	1.51667
+anyos	42.5333	1.53333
+arans	42.5833	1.51667
+arinsal	42.5667	1.48333
+aubinya	42.45	1.5
+bicisarri	42.4833	1.46667
+canillo	42.5667	1.6
+casas vila	42.5333	1.56667
+certers	42.4667	1.5
+el pui	42.55	1.516
+els bons	42.5333	1.58333
+el serrat	42.6167	1.55
+els plans	42.5833	1.63333
+el tremat	42.55	1.583
+el vilar	42.5667	1.6
+encamp	42.5333	1.58333
+engordany	42.5167	1.55
+ercs	42.5667	1.5
+escaldas	42.5	1.53
+escas	42.55	1.516
+fontaneda	42.45	1.466
+juberri	42.4333	1.5
+la cortinada	42.5667	1.51667
+la costa	42.5833	1.63333
+las escadas	42.5	1.53
+les bons	42.5333	1.58333
+les escaldes	42.5	1.53
+llumeneres	42.4667	1.51667
+lors	42.6	1.53
+lo serrat	42.6167	1.55
+mas d'alins	42.4333	1.45
+mas de ribafeta	42.5667	1.48333
+meritxell	42.55	1.6
+nagol	42.4667	1.5
+ordino	42.55	1.533
+prats	42.5667	1.6
+ransol	42.5833	1.63333
+sanctuaire de meritxeli	42.55	1.6
+san joan de casettas	42.5667	1.61667
+san julia	42.4667	1.5
+sant joan de casellas	42.5667	1.61667
+sant julia de loria	42.4667	1.5
+sant pere	42.5833	1.65
+santuari de meritxell	42.55	1.6
+sertes	42.4667	1.5
+sispony	42.5333	1.51667
+soldeu	42.5833	1.66667
+sornas	42.5667	1.53333
+vila	42.5333	1.56667
+vixesarri	42.4833	1.46667
+xixerella	42.55	1.483
+abu dabi	24.4667	54.3667
+abu hail	25.2855	55.3296
+abu zabi	24.4667	54.3667
+ad dharbaniya	25.7833	55.9333
+adgat	25.4987	56.3583
+adh dhaid	25.2881	55.8816
+adhin	25.4601	56.0126
+afarah	25.0411	56.3149
+`ain	24.2127	55.7835
+ain al ghamur	24.9595	56.3159
+`ain dhawahir	24.2127	55.7835
+ajima	25.3983	56.1507
+akamiya	25.6003	56.2691
+al abadilah	25.4535	56.1899
+al ain	24.1917	55.7606
+al ajman	25.4069	55.4441
+al `ayn	24.9595	56.3159
+al badiyah	25.4323	56.3457
+al bithnah	25.1895	56.2352
+al daid	25.2881	55.8816
+al dini	25.9323	56.4051
+al duss	25.9073	56.393
+al fai	26.0214	56.0914
+al fiyya	24.298	53.2114
+al-fudjayra	25.1164	56.3414
+al fuqait	25.5997	56.3425
+al fuyay'	24.298	53.2114
+al-ghil	25.4017	56.0681
+algida	25.9961	56.0842
+al gissemari	25.1434	56.2484
